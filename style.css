@@ -13,5 +13,9 @@ body {
     height: 500px;
     float: left;
 }
+
+.card, .card-body{
+    float:right;
+}
     
 
