@@ -5,7 +5,10 @@ body {
 }
 
 /* navigation bar */
-/* navbar navbar-dark bg-primary" */
+navbar{
+    background-color: greenyellow;
+}
+
 
 /* Our jumbotron */
 .jumbotron {
