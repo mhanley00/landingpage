@@ -1,6 +1,7 @@
 body {
     background-image: url("assets/100-dollar-bill.jpg");
-   background-color: #cccccc;
+    background-size: 300px 100px;
+    background-color: #cccccc;
 }
 
 /* navigation bar */
@@ -9,6 +10,8 @@ body {
 /* Our jumbotron */
 .jumbotron {
     background-color: transparent;
+    height: 500px;
+    float: left;
 }
     
 
