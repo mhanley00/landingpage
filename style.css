@@ -7,6 +7,8 @@ body {
 /* navbar navbar-dark bg-primary" */
 
 /* Our jumbotron */
-/* .jumbotron { */
+.jumbotron {
+    background-color: transparent;
+}
     
 
